@@ -1,16 +1,43 @@
-### Hi there 👋
+# Hello, World! 👋
 
-<!--
-**BJWRD/BJWRD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Brad and I'm a DevOps Engineer. This is my space on the web to learn about all things tech... 
 
-Here are some ideas to get you started:
+I hope you find something of value here! Enjoy!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Languages and tools
+
+#### Version Control System
+
+[![Git](https://img.shields.io/badge/-Git-%23c9d1d9?logo=git)](https://git-scm.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-%23c9d1d9?logo=github&logoColor=black)](https://github.com/BJWRD)
+[![GitLab](https://img.shields.io/badge/-GitLab-%23c9d1d9?logo=gitlab)](https://gitlab.com/BJWRD)
+#### Containerisation/Orchestration
+
+[![Docker](https://img.shields.io/badge/-Docker-%23c9d1d9?logo=Docker)](https://github.com/BJWRD)
+[![Kubernetes](https://img.shields.io/badge/-Kubernetes-%23c9d1d9?logo=Kubernetes)](https://github.com/BJWRD)
+#### Cloud Computing
+
+[![AWS](https://img.shields.io/badge/-AWS-%23c9d1d9?logo=AWS)](https://github.com/BJWRD)
+#### Secret Management/Database
+
+[![Hashicorp Vault](https://img.shields.io/badge/-Vault-%23c9d1d9?logo=vault)](https://github.com/BJWRD)
+[![MySQL](https://img.shields.io/badge/-MySQL-%23c9d1d9?logo=mysql)](https://github.com/BJWRD)
+[![RDS](https://img.shields.io/badge/-rds-%23c9d1d9?logo=rds)](https://github.com/BJWRD)
+#### CI/CD
+
+[![Jenkins](https://img.shields.io/badge/-Jenkins-%23c9d1d9?logo=jenkins)](https://github.com/BJWRD)
+#### Infrastructure as Code
+
+[![Terraform](https://img.shields.io/badge/-Terraform-%23c9d1d9?logo=terraform)](https://github.com/BJWRD)
+#### Scripting
+
+[![Bash](https://img.shields.io/badge/-Bash-%23c9d1d9?logo=gnubash&logoColor=black)](https://github.com/BJWRD)
+[![Python](https://img.shields.io/badge/-Python-%23c9d1d9?logo=python)](https://www.python.org)
+[![Ansible](https://img.shields.io/badge/-Ansible-%23c9d1d9?logo=ansible&logoColor=EE0000)](https://www.ansible.com)
+#### Linux
+
+[![Linux](https://img.shields.io/badge/-Linux-%23c9d1d9?logo=linux&logoColor=black)](https://github.com/BJWRD)
+[![Debian](https://img.shields.io/badge/-Debian-%23c9d1d9?logo=debian&logoColor=red)](https://github.com/BJWRD)
+[![RedHat](https://img.shields.io/badge/-RedHat-%23c9d1d9?logo=redhat)](https://github.com/BJWRD)
+[![Ubuntu](https://img.shields.io/badge/-Ubuntu-%23c9d1d9?logo=ubuntu)](https://github.com/BJWRD)
+[![CentOS](https://img.shields.io/badge/-CentOS-%23c9d1d9?logo=centos)](https://github.com/BJWRD)
