@@ -13,8 +13,8 @@ I hope you find something of value here! Enjoy!
 [![GitLab](https://img.shields.io/badge/-GitLab-%23c9d1d9?logo=gitlab)](https://gitlab.com/BJWRD)
 #### Containerisation/Orchestration
 
-[![Docker](https://img.shields.io/badge/-Docker-%23c9d1d9?logo=Docker)](https://github.com/BJWRD)
-[![Kubernetes](https://img.shields.io/badge/-Kubernetes-%23c9d1d9?logo=Kubernetes)](https://github.com/BJWRD)
+[![Docker](https://img.shields.io/badge/-Docker-%23c9d1d9?logo=Docker)](https://github.com/BJWRD/docker-simple-webapp-python-flask)
+[![Kubernetes](https://img.shields.io/badge/-Kubernetes-%23c9d1d9?logo=Kubernetes)](https://github.com/BJWRD/kubernetes-docker-python-flask)
 #### Cloud Computing
 
 [![AWS](https://img.shields.io/badge/-AWS-%23c9d1d9?logo=AWS)](https://github.com/BJWRD/three-tier-architecture)
