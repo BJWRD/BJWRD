@@ -17,18 +17,18 @@ I hope you find something of value here! Enjoy!
 [![Kubernetes](https://img.shields.io/badge/-Kubernetes-%23c9d1d9?logo=Kubernetes)](https://github.com/BJWRD)
 #### Cloud Computing
 
-[![AWS](https://img.shields.io/badge/-AWS-%23c9d1d9?logo=AWS)](https://github.com/BJWRD)
+[![AWS](https://img.shields.io/badge/-AWS-%23c9d1d9?logo=AWS)](https://github.com/BJWRD/three-tier-architecture)
 #### Secret Management/Database
 
-[![Hashicorp Vault](https://img.shields.io/badge/-Vault-%23c9d1d9?logo=vault)](https://github.com/BJWRD)
-[![MySQL](https://img.shields.io/badge/-MySQL-%23c9d1d9?logo=mysql)](https://github.com/BJWRD)
-[![RDS](https://img.shields.io/badge/-rds-%23c9d1d9?logo=rds)](https://github.com/BJWRD)
+[![Hashicorp Vault](https://img.shields.io/badge/-Vault-%23c9d1d9?logo=vault)](https://github.com/BJWRD/vault-terraform-aws)
+[![MySQL](https://img.shields.io/badge/-MySQL-%23c9d1d9?logo=mysql)](https://github.com/BJWRD/cicd-docker-wordpress-pipeline)
+[![RDS](https://img.shields.io/badge/-rds-%23c9d1d9?logo=rds)](https://github.com/BJWRD/three-tier-architecture)
 #### CI/CD
 
-[![Jenkins](https://img.shields.io/badge/-Jenkins-%23c9d1d9?logo=jenkins)](https://github.com/BJWRD)
+[![Jenkins](https://img.shields.io/badge/-Jenkins-%23c9d1d9?logo=jenkins)](https://github.com/BJWRD/jenkins-docker-installation)
 #### Infrastructure as Code
 
-[![Terraform](https://img.shields.io/badge/-Terraform-%23c9d1d9?logo=terraform)](https://github.com/BJWRD)
+[![Terraform](https://img.shields.io/badge/-Terraform-%23c9d1d9?logo=terraform)](https://github.com/BJWRD/three-tier-architecture)
 #### Scripting
 
 [![Bash](https://img.shields.io/badge/-Bash-%23c9d1d9?logo=gnubash&logoColor=black)](https://github.com/BJWRD)
