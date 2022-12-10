@@ -22,7 +22,7 @@ I hope you find something of value here! Enjoy!
 
 [![Hashicorp Vault](https://img.shields.io/badge/-Vault-%23c9d1d9?logo=vault)](https://github.com/BJWRD/vault-terraform-aws)
 [![MySQL](https://img.shields.io/badge/-MySQL-%23c9d1d9?logo=mysql)](https://github.com/BJWRD/cicd-docker-wordpress-pipeline)
-[![RDS](https://img.shields.io/badge/-rds-%23c9d1d9?logo=rds)](https://github.com/BJWRD/three-tier-architecture)
+[![RDS](https://img.shields.io/badge/-RDS-%23c9d1d9?logo=rds)](https://github.com/BJWRD/three-tier-architecture)
 #### CI/CD
 
 [![Jenkins](https://img.shields.io/badge/-Jenkins-%23c9d1d9?logo=jenkins)](https://github.com/BJWRD/jenkins-docker-installation)
