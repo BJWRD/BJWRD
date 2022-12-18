@@ -15,9 +15,10 @@ I hope you find something of value here! Enjoy!
 
 [![Docker](https://img.shields.io/badge/-Docker-%23c9d1d9?logo=Docker)](https://github.com/BJWRD/docker-simple-webapp-python-flask)
 [![Kubernetes](https://img.shields.io/badge/-Kubernetes-%23c9d1d9?logo=Kubernetes)](https://github.com/BJWRD/kubernetes-docker-python-flask)
+[![Helm](https://img.shields.io/badge/-Helm-%23c9d1d9?logo=helm&logoColor=blue)](https://github.com/BJWRD/helm-wordpress-example)
 #### Cloud Computing
 
-[![AWS](https://img.shields.io/badge/-AWS-%23c9d1d9?logo=AWS)](https://github.com/BJWRD/three-tier-architecture)
+[![AWS](https://img.shields.io/badge/-AWS-%23c9d1d9?logo=Amazon)](https://github.com/BJWRD/three-tier-architecture)
 #### Secret Management/Database
 
 [![Hashicorp Vault](https://img.shields.io/badge/-Vault-%23c9d1d9?logo=vault)](https://github.com/BJWRD/vault-terraform-aws)
