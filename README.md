@@ -43,3 +43,9 @@ I hope you find something of value here! Enjoy!
 [![RedHat](https://img.shields.io/badge/-RedHat-%23c9d1d9?logo=redhat)](https://github.com/BJWRD)
 [![Ubuntu](https://img.shields.io/badge/-Ubuntu-%23c9d1d9?logo=ubuntu)](https://github.com/BJWRD)
 [![CentOS](https://img.shields.io/badge/-CentOS-%23c9d1d9?logo=centos)](https://github.com/BJWRD)
+
+##
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=BJWRD&&style=flat-square" align="left" />
+</div>  
