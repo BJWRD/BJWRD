@@ -28,6 +28,7 @@ I hope you find something of value here! Enjoy!
 #### CI/CD
 
 [![Jenkins](https://img.shields.io/badge/-Jenkins-%23c9d1d9?logo=jenkins)](https://github.com/BJWRD/jenkins-docker-installation)
+[![Fleet](https://img.shields.io/badge/-Fleet-%23c9d1d9?logo=rancher&logoColor=green)](https://github.com/BJWRD/fleet-rancher-cicd)
 #### Infrastructure as Code
 
 [![Terraform](https://img.shields.io/badge/-Terraform-%23c9d1d9?logo=terraform)](https://github.com/BJWRD/three-tier-architecture)
