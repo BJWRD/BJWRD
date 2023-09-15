@@ -49,7 +49,7 @@ I hope you find something of value here! Enjoy!
 
 [![Grafana](https://img.shields.io/badge/-Grafana-%23c9d1d9?logo=grafana)](https://github.com/BJWRD/Kubernetes)
 [![Prometheus](https://img.shields.io/badge/-Prometheus-%23c9d1d9?logo=prometheus)](https://github.com/BJWRD/Kubernetes)
-[![Loki](https://img.shields.io/badge/-Grafana-%23c9d1d9?logo=grafana)](https://github.com/BJWRD/Kubernetes)
+[![Loki](https://img.shields.io/badge/-Loki-%23c9d1d9?logo=grafana)](https://github.com/BJWRD/Kubernetes)
 
 ##
 
