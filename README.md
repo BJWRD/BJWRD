@@ -1,6 +1,6 @@
 # Hello, World! 👋
 
-My name is Brad and I'm a DevOps Engineer. This is my space on the web to learn about all things tech... 
+My name is Brad and I'm a DevOps Engineer from the UK. This is my space on the web to learn about all things tech... 
 
 I hope you find something of value here! Enjoy!
 
